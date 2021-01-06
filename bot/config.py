@@ -4,7 +4,7 @@ class config:
     API_HASH = "fcedaa2f759a5fa0657c5c56f0a1450e"
     DATABASE_URL = "postgres://mkdjqelgskbcqa:ba96a7ee605fe3ea1bb39c18e9560c00c869e26ee76abd3a0342f6ae12c7c528@ec2-54-205-248-255.compute-1.amazonaws.com:5432/drp4jtglt4m80"
     SUDO_USERS = "952774613" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/GoUTtXnUMO-CtZVC"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
